@@ -1,6 +1,6 @@
-# facility-booking-adda-challenge
+# Facility booking - adda challenge
 
-# Client - frontend UI
+## Client - frontend UI
 
 1. For installing dependencies use below command which will install all dependencies 
    ### `npm install`
@@ -9,7 +9,7 @@
 3. Runs the app in the development mode.
   Open http://localhost:3000 to view it in your browser.
 
-# Server - Backend
+## Server - Backend
 
 1. For installing dependencies use below command which will install all dependencies 
    ### `npm install`
@@ -18,7 +18,7 @@
 3. Runs the app in the development mode.
   Open http://localhost:5000 to view it in your browser.
 
-# Testing 
+## Testing 
 
 1. Select facility name, date , time and submit 
 2. Select valid slot refer below data
