@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Clubhouse",
+        "slots":[
+            {"startTime": "10:00", "endTime": "16:00", "rate": "100"},
+            {"startTime": "16:00", "endTime": "22:00", "rate": "500"}
+        ]
+
+    },
+
+    {
+        "name" : "Tennis Court",
+        "slots":[
+            {"startTime": "10:00", "endTime": "16:00", "rate": "100"},
+            {"startTime": "16:00", "endTime": "22:00", "rate": "500"}
+        ]
+
+    }
+]
